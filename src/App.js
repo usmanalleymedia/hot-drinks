@@ -145,7 +145,6 @@ render() {
       </div>
       </section>
       <section className="nozzle">
-    nozzled
       </section>
       <section className="cup">
       <div className='mug'></div>
